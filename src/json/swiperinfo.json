@@ -1,0 +1,96 @@
+{
+  "mainsection" : 
+    [
+      {
+        "worktitle" : "wedding",
+        "cls" : "mainswiper_pt",
+        "bg" : "url(/myimg/wedding/wedding_06.jpg)"
+    
+      },
+      {
+        "worktitle" : "traval",
+        "cls" : "mainswiper_pt",
+        "bg" : "url(/myimg/wedding/wedding.jpg)"
+      },
+      {
+        "worktitle" : "",
+        "cls" : "mainswiper_pt",
+        "bg" : "url(/myimg/wedding/wedding_10.jpg)"
+      },
+      {
+        "worktitle" : "",
+        "cls" : "mainswiper_pt",
+        "bg" : "url(/myimg/wedding/wedding_05.jpg)"
+      }
+    ],
+
+  "bestphoto" : 
+    [
+      {
+        "worktitle" : "",
+        "cls" : "bestphoto_pt",
+        "bg" : "url(/myimg/solo/solo_13.jpg)"
+      
+      },
+      {
+        "worktitle" : "",
+        "cls" : "bestphoto_pt",
+        "bg" : "url(/myimg/solo/solo_23.jpg)"
+        },
+        {
+          "worktitle" : "",
+          "cls" : "bestphoto_pt",
+          "bg" : "url(/myimg/solo/solo_43.jpg)"
+        },
+        {
+          "worktitle" : "",
+          "cls" : "bestphoto_pt",
+          "bg" : "url(/myimg/solo/solo_68.jpg)"
+        },
+        {
+          "worktitle" : "",
+          "cls" : "bestphoto_pt",
+          "bg" : "url(/myimg/solo/solo_75.jpg)"
+        },
+        {
+          "worktitle" : "",
+          "cls" : "bestphoto_pt",
+          "bg" : "url(/myimg/solo/solo_96.jpg)"
+        }
+    ],
+  "gallery" : 
+    [
+      {
+        "worktitle" : "",
+        "cls" : "gallery_pt",
+        "bg" : "url(/myimg/snap/snap_06.jpg)"
+      
+      },
+      {
+        "worktitle" : "",
+        "cls" : "gallery_pt",
+        "bg" : "url(/myimg/snap/snap_07.jpg)"
+        },
+        {
+        "worktitle" : "",
+        "cls" : "gallery_pt",
+        "bg" : "url(/myimg/snap/snap_11.jpg)"
+        },
+        {
+        "worktitle" : "",
+        "cls" : "gallery_pt",
+        "bg" : "url(/myimg/snap/snap_13.jpg)"
+        },
+        {
+        "worktitle" : "",
+        "cls" : "gallery_pt",
+        "bg" : "url(/myimg/snap/snap_15.jpg)"
+        },
+        {
+        "worktitle" : "",
+        "cls" : "gallery_pt",
+        "bg" : "url(/myimg/snap/snap_19.jpg)"
+        }
+    ]
+}
+

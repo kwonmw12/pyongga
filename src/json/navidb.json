@@ -1,0 +1,24 @@
+{
+  "naviDB": [
+    {
+      "naviText": "GALLERY",
+      "naviLink": "#gallery"
+    },
+    {
+      "naviText": "BEST PHOTO",
+      "naviLink": "#bestphoto"
+    },
+    {
+      "naviText": "MD PICK",
+      "naviLink": "#pick"
+    },
+    {
+      "naviText": "REVIEW",
+      "naviLink": "#review"
+    },
+    {
+      "naviText": "RESERVATION",
+      "naviLink": "#reservation"
+    }
+  ]
+}
